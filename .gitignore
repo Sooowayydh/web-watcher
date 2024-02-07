@@ -1,0 +1,12 @@
+# Ignore env folder
+env/
+
+# Ignore config file
+config.py
+
+# Add any specific config file extensions if needed, for example:
+# config.json
+# config.yaml
+# config.ini
+
+__pycache__/
